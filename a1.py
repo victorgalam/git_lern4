@@ -13,13 +13,3 @@ def mushlam_num():
 mushlam_num()
 
 
-# num = 127
-# print(num % 10)
-# num = num // 10
-# print(num)
-# print(num % 10)
-# num = num // 10
-# print(num)
-# print(num % 10)
-# num = num // 10
-# print(num)
